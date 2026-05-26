@@ -19,7 +19,7 @@ public class NonPrimitiveDataTypes {
 
         System.out.println("String value: " + name);
 
-        System.out.println("Array values: " + Arrays.toString(numbers));
+        System.out.println("Array values: " + Arrays.toString(numbers)); // Using Arrays.toString to print array contents.
 
         System.out.println("Student Name: " + student.name);
         System.out.println("Student Age: " + student.age);
