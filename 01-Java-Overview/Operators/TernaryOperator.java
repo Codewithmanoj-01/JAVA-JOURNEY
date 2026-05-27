@@ -5,7 +5,7 @@ public class TernaryOperator {
 
         int age = 20;
 
-        String result = (age >= 18) ? "Eligible to Vote" : "Not Eligible";
+        String result = (age >= 18) ? "Eligible to Vote" : "Not Eligible"; // Ternary operator (condition) ? value_if_true : value_if_false
 
         System.out.println(result);
     }
